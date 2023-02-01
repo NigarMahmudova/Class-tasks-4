@@ -1,0 +1,14 @@
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\bin\Debug\netcoreapp3.1\Task2.exe
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\bin\Debug\netcoreapp3.1\Task2.deps.json
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.json
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\bin\Debug\netcoreapp3.1\Task2.runtimeconfig.dev.json
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\bin\Debug\netcoreapp3.1\Task2.dll
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\bin\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.AssemblyReference.cache
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\obj\Debug\netcoreapp3.1\Task2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfoInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\obj\Debug\netcoreapp3.1\Task2.AssemblyInfo.cs
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\obj\Debug\netcoreapp3.1\Task2.csproj.CoreCompileInputs.cache
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\obj\Debug\netcoreapp3.1\Task2.dll
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\obj\Debug\netcoreapp3.1\Task2.pdb
+C:\Users\User Widnows 10 Home\Documents\C#\31012023\Static, Abstraction\Task2\obj\Debug\netcoreapp3.1\Task2.genruntimeconfig.cache
